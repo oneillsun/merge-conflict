@@ -7,7 +7,15 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code
+ if (checkLogin = 1)
+ {
+   Token();
+ }
+}
+
+Function Token()
+{
+
 }
 
 
